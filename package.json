@@ -5,7 +5,8 @@
   "description": "Backend web app for distributing Herky map front end and Web API for accessing herky statue data",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "node app.js",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
